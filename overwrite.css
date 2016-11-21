@@ -1,0 +1,72 @@
+/*transparent*/
+.com-main {
+    background-color: hsla(225,14%,6%,0.7)!important;
+}
+.G-nav-bar {
+  background:hsla(225,14%,6%,0.0)!important;
+
+}
+.G-nav-bar li a:hover:before {
+  background:hsla(225,14%,6%,0.3)!important;
+}
+.G-nav-bar li a.current {
+  background:hsla(225,14%,6%,0.3)!important;
+}
+.G-main {
+  background:hsla(225,14%,6%,0.3)!important;
+}
+.dasboard .panel {
+  border: 0px solid #e0e0e0!important;
+}
+.online-list td {
+  border-bottom: 0px solid #dce1e5!important;
+}
+.G-table thead td {
+  background: transparent!important;
+}
+.G-gray-panel {
+  background: transparent!important;
+  border: 0px solid #e0e0e0!important;
+}
+.G-gray-panel .G-main-panel-hd {
+  border-bottom: 0px solid #dce1e5!important;
+}
+.G-switch-btn span{
+  background: #67b1ff!important;
+}
+.safe-model li .panel  {
+  background: transparent!important;
+  border: 0px solid #e0e0e0
+}
+.safe-model .line {
+  border-bottom: 0px solid #dce1e5!important;
+}
+
+/*滚动条隐藏*/
+body::-webkit-scrollbar{display:none!important;}
+html::-webkit-scrollbar{display:none!important;}
+
+/*
+3level
+*/
+.level-box .level-on3 {
+  background: url("/turbo-static/turbo/v2/img/leve-line3.png") !important;
+}
+.dasboard .panel {
+  background: hsla(225,14%,6%,0.3)!important;
+}
+.level-box .level-mask {
+  background: hsla(225,14%,6%,0.0)!important;
+}
+.level-box .level-bg {
+  background: hsla(225,14%,6%,0.0)!important;
+}
+.dasboard .panel .line {
+  border-bottom: 0px solid #dce1e5 !important;
+}
+.mask {
+  background: hsla(225,14%,6%,0.8) !important;
+}
+.mask .num {
+  color: #8e9aa9 !important;
+}
