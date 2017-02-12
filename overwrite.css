@@ -79,3 +79,9 @@ html::-webkit-scrollbar{display:none!important;}
 thead td {
   background: hsla(225,14%,6%,0.0)!important;
 }
+.zj-panel .G-password-bar .input{
+  background: hsla(225,14%,6%,0.0)!important;
+}
+.G-form-table input[type=password]{
+  background: hsla(225,14%,6%,0.0)!important;
+}
