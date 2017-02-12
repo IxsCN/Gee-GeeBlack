@@ -70,3 +70,12 @@ html::-webkit-scrollbar{display:none!important;}
 .mask .num {
   color: #8e9aa9 !important;
 }
+.super-set-bar{
+  background: hsla(225,14%,6%,0.0)!important;
+}
+.G-form-table input[type=text] {
+  background: hsla(225,14%,6%,0.0)!important;
+}
+thead td {
+  background: hsla(225,14%,6%,0.0)!important;
+}
